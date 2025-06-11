@@ -521,8 +521,8 @@ int main(){
 }
 */
 //practice; random number guessing game
+/*
 #include <ctime>
-using namespace std;
 
 int main(){
     int num;
@@ -552,3 +552,4 @@ int main(){
     cout << "Thank you for playing!\n";
     return 0;
 }
+*/
