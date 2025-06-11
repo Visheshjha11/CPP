@@ -499,6 +499,7 @@ int main(){
 */
 
 //random event occur
+
 /*
 #include <ctime>
 int main(){
@@ -520,7 +521,9 @@ int main(){
     }
 }
 */
+
 //practice; random number guessing game
+
 /*
 #include <ctime>
 
@@ -553,3 +556,4 @@ int main(){
     return 0;
 }
 */
+
